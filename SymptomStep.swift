@@ -9,5 +9,4 @@ enum SymptomStep {
     case feverTemperatureTakenToday
     case feverTemperatureSpot
     case feverHighestTemperature
-    case earliestSymptomDate
 }
